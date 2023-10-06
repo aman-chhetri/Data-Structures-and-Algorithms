@@ -10,3 +10,16 @@
 <a href="#" ><img src="https://img.shields.io/badge/Contributions-Welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
 
 </div>
+
+## Steps to follow :scroll:
+
+### Tips: Complete this process in GitHub (in your browser)
+
+```mermaid
+flowchart LR
+    Fork[Fork the project]-->branch[Create a New Branch]
+    branch-->Edit[Edit file]
+    Edit-->commit[Commit the changes]
+    commit -->|Finally|creatpr((Create a Pull Request))
+
+```
