@@ -1,0 +1,42 @@
+SOLUTION TO ISSUE #1
+FUNDAMENTALS OF DATA STRUCTURES.
+
+LINKED LIST:
+
+1. Linear Data Structure: A linked list is a linear data structure where elements are stored in a sequence.
+2. Nodes: Each element in a linked list is stored in a node. A node typically consists of two parts: data and a reference to the next node.
+3. Dynamic Size: Linked lists can change in size during execution as elements can be added or removed easily.
+4. Memory Allocation: Linked lists utilize dynamic memory allocation, which means memory can be used efficiently.
+5. Traversal: Traversing a linked list is done sequentially, starting from the first node and moving through each subsequent node.
+6. Insertion and Deletion: Linked lists allow for efficient insertion and deletion operations, typically better than arrays, especially for large datasets.
+7. Memory Overhead: Linked lists have more memory overhead than arrays because of the storage needed for the references between nodes.
+
+STACKS:
+
+1. Abstract Data Type: A stack is an abstract data type that follows the Last In, First Out (LIFO) principle.
+2. Elements: It contains elements that can be added or removed only from the top of the stack.
+3. Operations: Main operations include push (adding an element to the top) and pop (removing the top element).
+4. Peek: Allows viewing the top element without removing it from the stack.
+5. Limited Access: Access to elements is restricted to only the top, making it easy to manage and operate.
+6. Function Call Management: Stacks are crucial in managing function calls and expressions in programming languages.
+7. Memory Allocation: Stacks are often used for memory allocation and deallocation, tracking recursive algorithms, and managing system resources.
+
+QUEUES:
+
+1. Linear Data Structure: A queue is a linear data structure that follows the First In, First Out (FIFO) principle.
+2. Operations: It supports two main operations: enqueue (adding an element to the back) and dequeue (removing an element from the front).
+3. Front and Rear: The front and rear indicate the positions for dequeuing and enqueuing elements, respectively.
+4. Limited Access: Access to elements is restricted to the front and rear, ensuring a controlled order of retrieval.
+5. Usage: Queues are commonly used for managing tasks, scheduling, and handling requests in various computer algorithms and systems.
+6. Breadth-First Search: Queues are instrumental in implementing the breadth-first search algorithm in graph traversal.
+7. Synchronization: In concurrent programming, queues can be used for task scheduling, message passing, and data sharing between different processes.
+
+TREES:
+
+1. Hierarchical Data Structure: Trees are hierarchical data structures consisting of nodes connected by edges, with a single root node at the top.
+2. Nodes: Each node in a tree holds a value and may have child nodes linked to it.
+3. Root: The topmost node in a tree is called the root node, which serves as the starting point for traversing the tree.
+4. Branches: The connections between nodes are called branches or edges, representing the relationships between the nodes.
+5. Leaves: Nodes that do not have any children are referred to as leaf nodes, signifying the endpoints of a tree.
+6. Usage: Trees are widely used in computer science for representing hierarchical data such as file systems, organization structures, and in implementing various algorithms like binary search trees.
+7. Binary Trees: A special type of tree where each node has at most two children, commonly known as the left child and the right child.
