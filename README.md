@@ -1,8 +1,7 @@
 # HacktoberFest 2023⚡️✨
 This repository is about collecting different important DSA topics/questions that are mostly asked in placement. Start your journey to the world of open source and participate in Hacktoberfest 2023.
 
-![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
-
+![hacktoberfest_cover](https://github.com/aman-chhetri/Data-Structures-and-Algorithms/assets/79894697/ee8baa6e-af93-41a8-8406-ae393305cee3)
 
 <div align="center">
 
